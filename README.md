@@ -1,2 +1,13 @@
-# csharp-learning
-My C# learning journet and practice projects.
+# Изучение C# 
+Мой путь в C# и .NET.
+
+## Что здесь
+- Учебные задачки
+- Решения с LeetCode
+
+## Прогресс
+"x" обозначает завершённый этап.
+- [  ] Базовый синтаксис
+- [  ] ООП
+- [  ] LINQ
+- [  ] ASP.NET Core
